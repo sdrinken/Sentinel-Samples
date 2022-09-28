@@ -1,6 +1,7 @@
 [
   {
-    "TimeGenerated [Local Time]": "28-9-2022 13:44:42.073",
+     "TenantId": "8ecf8077-cf51-xxxx-xxxx-14040956f35d",
+     "TimeGenerated [Local Time]": "28-9-2022 13:44:42.073",
      "Account": "AIA-WIN-2019-01",
      "AccountType": "Machine",
      "Computer": "AIA-WIN-2019-01",
