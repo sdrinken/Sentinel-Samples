@@ -3,7 +3,7 @@
    "TenantId": "8ecf8077-cf51-4820-aadd-14040956f35d",
    "Computer": "DC01.seccxp.ninja",
    "SourceSystem": "OpsManager",
-   "TimeGenerated [UTC]": "9/30/2022, 18:36:00.000 PM",
+   "TimeGenerated [Local Time]": "9/30/2022, 18:36:00.000 PM",
    "EventId": 257,
    "SubType": "LookupQuery",
    "Message": "",
